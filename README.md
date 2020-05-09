@@ -20,7 +20,7 @@ Learning Outlier Analysis using PyOD and Anomaly Detection with a real life use 
 
 ## Analysis summary
 
-### The following information were extracted from the dataset:
+### The following results and processing were obtained from the dataset:
 
 - Deplyoment of a neural network to achieve 99.98% accuracy on the test dataset without overfitting
 - Handling Class Imabalance using Synthetic Minority Oversampling (SMOTE)
