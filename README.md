@@ -1,6 +1,7 @@
 # Credit-Card-Fraud-Detection
 
 Credit Card Fraud Detection is a classic class-imbalance problem where the number of fraud transactions is much lesser than the number of legitimate transaction for any bank. Most of the approaches involve building model on such imbalanced data, and thus fails to produce results on real-time new data because of overfitting on training data and a bias towards the majoritarian class of legitimate transactions. Thus, we can see this as an anomaly detection problem.
+Link to the Blog: <a href="https://medium.com/@vgaurav3011/credit-card-fraud-detection-you-have-to-be-odd-to-be-number-1-e158ceaf62f2">Click Here</a>
 
 ## Data
 
